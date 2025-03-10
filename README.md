@@ -4,7 +4,7 @@
 - 📚 I'm constantly learning, and always eager to explore new tools and frameworks to enhance my skill set. 
 
 ## 🔗 Links
-- 💼 Work Github: [@san-rai](https://github.com/sandesh-rai)
+- 💼 Work Github: [@san-rai](https://github.com/san-rai)
 - 📫 LinkedIn: [sandesh-rai](https://www.linkedin.com/in/sandesh-rai/)
 - 🎓 University Projects: [Projects](https://sandeshraidesigns.blogspot.com/)
 
