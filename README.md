@@ -7,6 +7,7 @@
 - 💼 Work Github: [@san-rai](https://github.com/san-rai)
 - 📫 LinkedIn: [sandesh-rai](https://www.linkedin.com/in/sandesh-rai/)
 - 🎓 University Projects: [Projects](https://sandeshraidesigns.blogspot.com/)
+- 🏆 Certification: [AWS Certified Solutions Architect Associate (SAA-C03)](https://www.credly.com/badges/06978e78-267f-4ac5-91ec-94c163210922)
 
 ## 💻 Tech Stack
 - Languages: Java, TypeScript, Python, PHP, SQL
@@ -14,4 +15,4 @@
 - Backend: Spring, Laravel
 - Testing: Jest, JUnit, PHPUnit
 - Tools: AWS, Git, Docker, Jira
-- Certification: AWS Certified Solutions Architect Associate (SAA-C03)
+
