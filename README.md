@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Sandesh 👋
+I'm a passionate full-stack software engineer based in London, UK, with a strong foundation in both front-end and back-end technologies. 
 
-<!--
-**sandesh-rai/sandesh-rai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently, I'm expanding my knowledge in DevOps, focusing on Docker, Kubernetes, and CI/CD to to build efficient and scalable systems. 
 
-Here are some ideas to get you started:
+I'm constantly learning, and always eager to explore new tools and frameworks to enhance my skill set.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+- 💼 Work Github: [@san-rai](https://github.com/sandesh-rai)
+- 📫 LinkedIn: [sandesh-rai](https://www.linkedin.com/in/sandesh-rai/)
+- 🎓 University Projects: [Projects](https://sandeshraidesigns.blogspot.com/)
+
+## 💻 Tech Stack
+- Languages: Java, TypeScript, Python, PHP, SQL
+- Frontend: React, Vue, HTML5, CSS3, SCSS
+- Backend: Spring, Laravel
+- Testing: Jest, JUnit, PHPUnit
+- Tools: AWS, Git, Docker, Jira
+- Certification: AWS Certified Solutions Architect Associate (SAA-C03)
