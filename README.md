@@ -1,5 +1,5 @@
 ## Hi, I'm Sandesh 👋
-- 🌍 I'm a passionate full-stack software engineer based in London, with a strong foundation in both front-end and back-end technologies. 
+- 🌍 I'm a passionate full-stack software engineer based in the UK, with a strong foundation in both front-end and back-end technologies, alongside certified AWS experience to build cloud-native applications.
 - 🛠️ Currently, I'm expanding my knowledge in DevOps, focusing on Docker, Kubernetes, and CI/CD to to build efficient and scalable systems. 
 - 📚 I'm constantly learning, and always eager to explore new tools and frameworks to enhance my skill set. 
 
